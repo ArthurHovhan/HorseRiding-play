@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794497408|5170583';
+const CACHE_VERSION = '1794501236|4327428';
 /** @type {string} */
 const CACHE_PREFIX = 'Horse Riding Sim-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
